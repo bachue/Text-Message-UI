@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Text Message</string>
+    <string-array name="messages">
+        <item>10086：你的密码过于简单。服务密码泄漏可能会造成个人信息的泄漏。你可以发送XGMM到10086修改密码。</item>
+        <item>10086：移动数据标准资费订购成功。立即生效。业务流水号：309632365501（建议保留）。国内使用0.01元/K，不含台港澳及国际漫游流量。发送CXLL至10086可以随时关注国内流量使用情况。</item>
+        <item>10086：尊敬的客户，感谢你使用GPRS套餐。</item>
+    </string-array>
+
+</resources>
